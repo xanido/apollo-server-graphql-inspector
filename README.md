@@ -1,2 +1,2 @@
-# apollo-server-graphql-inspector
+# apollo-server-playground
 Created with CodeSandbox
